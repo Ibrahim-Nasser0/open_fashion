@@ -1,16 +1,49 @@
-# open_fashion
+# Hi there 👋 I'm Ibrahim Nasser
 
-A new Flutter project.
+🎯 **Flutter Developer | Computer Science Student**  
+📱 Passionate about building beautiful and functional cross-platform mobile applications.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 About Me
+- 💙 Skilled in **Flutter & Dart** for crafting cross-platform apps.
+- 🐍 Proficient in **Python** for scripting and problem-solving.
+- 🔧 Strong background in **C++**, data structures, and computer architecture.
+- 🖥 Knowledgeable in **LC-3 Assembly** and low-level programming concepts.
+- 📚 Currently learning **Databases** and **Algorithms**.
+- 💡 Combine academic knowledge with hands-on development experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 What I Do
+- 📲 Develop **functional, scalable, and maintainable** mobile applications.
+- 🧠 Apply **problem-solving skills** to write clean and efficient code.
+- 🛠 Build projects to apply **new technologies** in real-world scenarios.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Currently Focused On
+- 🚀 Expanding my programming skills.
+- 🏗 Building projects with **Flutter**, **Python**, and exploring **new tech stacks**.
+- 📖 Strengthening my understanding of **core computer science concepts**.
+
+---
+
+## 🧰 Skills & Tools
+- **Languages**: Flutter, Dart, C++, Python
+- **Core Concepts**: OOP, Data Structures, Computer Architecture
+- **Others**: LC-3 Assembly, Git & GitHub, REST APIs
+
+---
+
+## 📫 How to reach me
+- 📧 Email: [ibrahim@example.com](mailto:12baraka34@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/ibrahim-nasser-971905375](#)
+- 🐙 GitHub: [github.com/ibrahim-nasser](#)
+
+---
+
+[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-nasser&show_icons=true&theme=swift)](https://github.com/ibrahim-nasser)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ibrahim-nasser&theme=default)](https://git.io/streak-stats)
+
+---
