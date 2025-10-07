@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:open_fashion/core/app_colors.dart';
-import 'package:open_fashion/screens/home.dart';
+import 'package:open_fashion/feaures/home/view/home.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

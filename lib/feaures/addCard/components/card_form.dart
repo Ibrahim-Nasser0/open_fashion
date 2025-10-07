@@ -1,37 +1,7 @@
 import 'package:flutter/material.dart';
-
-import 'package:open_fashion/components/custom_appbar.dart';
 import 'package:flutter_credit_card/flutter_credit_card.dart';
-import 'package:open_fashion/components/custom_botton.dart';
-import 'package:open_fashion/components/custom_title.dart';
 import 'package:open_fashion/core/app_colors.dart';
-import 'package:open_fashion/models/card_data_model.dart';
-
-CardDataModel? cardData;
-
-class AddCard extends StatelessWidget {
-  const AddCard({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: CustomAppBar(isBlack: false),
-      body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 0.0),
-        child: Column(
-          children: [
-            CustomTitle(title: 'Payment method'),
-
-            CardForm(),
-
-            Spacer(),
-            CustomBotton(text: "add card", onTap: () {}),
-          ],
-        ),
-      ),
-    );
-  }
-}
+import 'package:open_fashion/feaures/addCard/view/add_card.dart';
 
 class CardForm extends StatefulWidget {
   const CardForm({super.key});

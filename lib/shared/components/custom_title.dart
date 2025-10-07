@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:open_fashion/components/custom_text.dart';
+import 'package:open_fashion/shared/components/custom_text.dart';
 import 'package:open_fashion/core/app_colors.dart';
 
 class CustomTitle extends StatelessWidget {

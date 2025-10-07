@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:open_fashion/components/custom_text.dart';
+import 'package:open_fashion/shared/components/custom_text.dart';
 import 'package:open_fashion/core/app_colors.dart';
 
 class CustomBotton extends StatelessWidget {
@@ -20,10 +20,13 @@ class CustomBotton extends StatelessWidget {
     return GestureDetector(
       onTap: onTap,
       child: Container(
-        width: 375.w,
+        width: 350.w,
         height: 56.h,
         alignment: Alignment.center,
-        decoration: BoxDecoration(color: AppColors.primaryColor),
+        decoration: BoxDecoration(
+          color: AppColors.primaryColor,
+          borderRadius: BorderRadius.circular(15.r),
+        ),
 
         child: isSvg
             ? Row(

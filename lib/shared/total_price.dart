@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:open_fashion/components/custom_botton.dart';
-import 'package:open_fashion/components/custom_text.dart';
+import 'package:open_fashion/shared/components/custom_botton.dart';
+import 'package:open_fashion/shared/components/custom_text.dart';
 import 'package:open_fashion/core/app_colors.dart';
-import 'package:open_fashion/models/product_model.dart';
+import 'package:open_fashion/shared/models/product_model.dart';
+
 
 class TotalPrice extends StatefulWidget {
   const TotalPrice({
